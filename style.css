@@ -52,11 +52,6 @@ nav li{text-align: center;  margin: 27px 0;font-weight: 400; color: black;font-s
 .text-about h2{font-size: 34px;text-transform:uppercase;padding-top: 60px;}
 .text-about p{font-size: 32px;text-transform: none;margin: 85px 104px 105px;}
 
-/* .row {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
 .name{color: #fff;position: relative;}
 .name h3{text-align: center;border: solid black;line-height: 27px;color: #fff;width: 340px;background-color: black;position: absolute;top:70%;justify-content: center; left: 10%;}
 .name p{margin-top: 40px;margin-bottom: 90px;}
@@ -133,7 +128,6 @@ nav li{text-align: center;  margin: 27px 0;font-weight: 400; color: black;font-s
     html{font-size: 14px;}
 
     header h1{font-size: xx-large;line-height: 5px;padding: 30px;}
-    /* nav a{font-size: x-large;margin: 10px;} */
     .full-container li{font-size: xx-large;margin: 10px;padding: 10px;}
 
     .text-overlay{font-size: 20px;margin-top: 60px;color:#fff(111, 255, 0);}
@@ -238,14 +232,6 @@ nav li{text-align: center;  margin: 27px 0;font-weight: 400; color: black;font-s
     html{font-size: 12px;}
         header h1{font-size: x-large;line-height: 35px;}
         .full-container li{font-size: large;margin: 10px;}
-
-        .dropdown {
-            display: none; /* Hide dropdown by default on small screens */
-        }
-    
-        nav ul li:hover .dropdown {
-            display: block; /* Show dropdown on hover */
-        }
     
         .text-overlay{font-size: 13px;margin-top: 30px;}
         .text-overlay p{font-size: 10px;margin: 10px 15px 10px }
@@ -278,9 +264,5 @@ nav li{text-align: center;  margin: 27px 0;font-weight: 400; color: black;font-s
 .contact h3{font-size: 31px;}
 .contact p{font-size: 42px;}
 .contact li a{color: black;font-size: 30px;}
-
-
-        /* 
-        .contact{height: 553px;width: 555px;text-align: center;} */
 
 }
